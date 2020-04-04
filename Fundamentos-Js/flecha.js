@@ -26,7 +26,7 @@ let saludar = () => 'Hola mundo';
 // }
 
 // Y como solo retorna una linea se puede simplificar asi:
-let saludo = nombre => `Hola ${nombre}`;
+let saludo = (nombre) => `Hola ${nombre}`;
 
 // ------ EJEMPLO 4 -----------
 let deadpool = {
